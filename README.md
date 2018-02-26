@@ -1,6 +1,6 @@
 # El_Convertidadooor
 <p>
-Script for convert </br>
+Script for convert : </br>
 - Binary to Decimal </br>
 - Binary to Hex </br>
 - Hex to Binary </br>
